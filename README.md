@@ -5,20 +5,20 @@ project desription
 1.task
 -------------------------------------
 Perform CRUID Operation web appliction using springboot for backend , and Design by using HTML AND CSS.
--------------------------------------------------------------------------------------------------------------
-Welcome Page
+---------------------------------------------------------------------------------------------------------
+Welcome Page:
 --------------
 <img width="953" alt="1e" src="https://github.com/user-attachments/assets/7be2b408-d52c-4871-addb-3f65c3645929">
 
-After Displaying welcome page we redirect to Prodict list
---------------------------------------------------------
+After Displaying welcome page we redirect to Prodict list:
+---------------------------------------------------------
 <img width="958" alt="2e" src="https://github.com/user-attachments/assets/7c80b732-8c51-4cbf-949f-6e2ef2962ffc">
 
-after we can view product Detail and we can even print the Forms
----------------------------------
+after we can view product Detail and we can even print the Forms:
+----------------------------------------------------------------
 <img width="947" alt="3e" src="https://github.com/user-attachments/assets/4d344891-b0c1-452c-9c20-4900bdd410a3">
 
- Print The Form
+ Print The Form:
 ----------------
 
 
@@ -27,7 +27,7 @@ after we can view product Detail and we can even print the Forms
 
 <img width="947" alt="4e" src="https://github.com/user-attachments/assets/22d91d53-5fe6-4c13-be15-61bd50ae2077">
 
-we can even Delete the Product
+we can even Delete the Product:
 ------------------------------
 
 
