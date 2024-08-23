@@ -13,9 +13,9 @@ Welcome Page
 After Displaying welcome page we redirect to Prodict list
 --------------------------------------------------------
 <img width="958" alt="2e" src="https://github.com/user-attachments/assets/7c80b732-8c51-4cbf-949f-6e2ef2962ffc">
-----------------------------------------------------------------------------------------------------------------
+
 after we can view product Detail and we can even print the Forms
-----------------------------------------------------------------
+
 <img width="947" alt="3e" src="https://github.com/user-attachments/assets/4d344891-b0c1-452c-9c20-4900bdd410a3">
 print:
 -----
