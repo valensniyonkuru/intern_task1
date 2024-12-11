@@ -37,7 +37,7 @@ Completing a CRUD web application using Spring Boot for the backend and HTML/CSS
 
 Full-Stack Development: Gain hands-on experience with both backend (Java, Spring Boot) and frontend (HTML, CSS) technologies.
 Database Management: Learn to perform essential database operations (Create, Read, Update, Delete) and understand data handling.
-Project Portfolio: Build a tangible project to showcase your skills to potential employers, boosting your employability.
+Project Portfolio: Build a tangible project to showcase my skills to potential employers, boosting my employability.
 Problem-Solving: Enhance your debugging and logical thinking abilities by troubleshooting real-world application issues.
 Career Advancement: Develop foundational skills that are highly valued in roles like Full-Stack Developer, Backend Developer, and more.
-This project helps you build a strong foundation in web development, making you more versatile and employable.
+This project helps me build a strong foundation in web development, making me more versatile and employable.
